@@ -12,8 +12,8 @@ Apart from coding I also maintain a blog-you can find my articles here <br/>
 ## :wrench: **Technologies and Tools** 
 Python , C++
 
-## Profiles 
-### You can also check out my profiles on other websites 
+## 🌟 Profiles 
+You can also check out my profiles on other websites 
 **GeeksforGeeks** - https://auth.geeksforgeeks.org/user/atharvapc20021/profile <br/>
 **Hackerrank** - https://www.hackerrank.com/atharva0300
 
