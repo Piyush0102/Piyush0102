@@ -1,7 +1,7 @@
 # **Hi! , I am Atharva , great to see you here 👋**
 -------------------------------------------------------------
 ## 😃 **About me**
-I am a Computer Engineering student studying at International Institute of Information Technology, Pune (I2IT,Pune). I am a tech enthusiast. I extremely passionate about developing really cool softwares.I am always open to collaborate on projects and innovative/distruptive ideas. Find out more about me and feel free to contact me on the link below. <br/>
+I am a Computer Engineering student studying at International Institute of Information Technology, Pune (I2IT,Pune). I am a tech enthusiast. I extremely passionate about developing really cool softwares. I am always open to collaborate on projects and innovative/distruptive ideas. Find out more about me and feel free to contact me on the link below. <br/>
 **Twitter** - https://twitter.com/iamatharvap
 
 ## ✍ Blog and Writer
