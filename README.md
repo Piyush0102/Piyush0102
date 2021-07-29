@@ -12,6 +12,13 @@ I am a Computer Engineering student studying at International Institute of Infor
 <a href="https://auth.geeksforgeeks.org/user/atharvapc20021/articles">
 <img src="https://img.shields.io/badge/GeeksforGeeks-brightgreen">
 </a>
+</a>
+<a href="https://dev.to/atharva0300">
+<img src="https://img.shields.io/badge/DEV-yellowgreen">
+</a>
+<a href="https://hackr.io/atharva-pingale">
+<img src="https://img.shields.io/badge/Hackr.io-cf9">
+</a>
 <br/>
 ***Ask me about anything 💡*** <br/>
 ***Profiles :***
