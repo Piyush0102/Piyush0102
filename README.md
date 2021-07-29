@@ -5,8 +5,8 @@
 # **Hi! , I am Atharva , great to see you here 👋**
                                                                
 ## 😃 **About me**
-I am a Computer Engineering student studying at International Institute of Information Technology, Pune (I2IT,Pune). I am a tech enthusiast. I extremely passionate about developing really cool softwares. I am always open to collaborate on projects and innovative/distruptive ideas.<br/><br/>
-**1.Writer and Blogger :** 
+I am a Computer Engineering student studying at International Institute of Information Technology, Pune (I2IT,Pune). I am a tech enthusiast, extremely passionate about developing cool projects. I am always open to collaborate on projects and innovative/distruptive ideas.<br/><br/>
+**1. Writer and Blogger :** 
 <a href="https://hashnode.com/@atharva0300">
 <img src="https://img.shields.io/badge/Hashnode-orange">
 </a>
@@ -14,7 +14,7 @@ I am a Computer Engineering student studying at International Institute of Infor
 <img src="https://img.shields.io/badge/GeeksforGeeks-brightgreen">
 </a>
 <br/>
-**2.Profiles :** 
+**2. Profiles :** 
 <a href="https://auth.geeksforgeeks.org/user/atharvapc20021/profile">
 <img src="https://img.shields.io/badge/GeeksforGeeks-brightgreen">
 </a>
@@ -22,7 +22,7 @@ I am a Computer Engineering student studying at International Institute of Infor
 <img src="https://img.shields.io/badge/Hackerrank-yellow">
 </a>
 <br/>
-**3.Competitive Programmer :**
+**3. Competitive Programmer :**
 <a href="https://www.codechef.com/users/atharva0300">
 <img src="https://img.shields.io/badge/Codechef-brown">
 </a>
@@ -47,9 +47,7 @@ I am a Computer Engineering student studying at International Institute of Infor
 ## **🤜🤛 Challenges undertaken**
   1. 100DaysOfCode
   2. 301DaysOfCode
-  3. 30DaysOfCode
-<br/>
-Regularly updating my progress on Github.
+  3. 30DaysOfCode<br/>Regularly updating my progress on Github.
 
 ## **Github Stats**
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=atharva0300&show_provate=true&theme=algolia&show_icons=true&show_owner=true)](https://github.com/atharva0300/github-readme-stats)
