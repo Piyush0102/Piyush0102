@@ -41,7 +41,6 @@ I am a Computer Engineering student studying at International Institute of Infor
 <img src="https://img.icons8.com/color/35/000000/html-5.png">
 <img src="https://img.icons8.com/color/35/000000/css3.png">
 <img src="https://img.icons8.com/color/35/000000/javascript.png">
-<img src="https://img.icons8.com/fluent/35/000000/autocad.png"/>
 </a>
 
 
