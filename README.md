@@ -28,5 +28,8 @@ I am also a competitive programmer. Check the links below to to see profiles -<b
 **301DaysOfCode** - Adding jQuery, React, DSA to the previous goal. Can also check this repisitory, goes my the same name. <br/>
 **30DaysOfCode** - For Data structures and Algorithms. Also check my repository for this. <br/>
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva0300&theme=algolia&count_private=true&show_icons=true&show_owner=true)](https://github.com/atharva0300/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva0300&theme=algolia&layout=compact&lang_count=8)](https://github.com/atharva0300/github-readme-stats)
 
 
