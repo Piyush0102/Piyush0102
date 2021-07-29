@@ -33,7 +33,7 @@ I am a Computer Engineering student studying at International Institute of Infor
 <img src="https://img.shields.io/badge/SPOJ-blueviolet">
 </a>
 <br/>
-<img src="https://img.icons8.com/fluent/25/000000/gmail-new.png"> :**atharva0300@gmail.com**
+**4. How to reach me : atharva0300@gmail.com**
 ## **:wrench: Languages and Tools** 
 <a href="">
 <img src="https://img.icons8.com/color/35/000000/python--v1.png">
