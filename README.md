@@ -53,6 +53,8 @@ I am a Computer Engineering student studying at International Institute of Infor
 <img src="https://img.icons8.com/color/35/000000/javascript.png">
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img src="https://img.icons8.com/color/48/000000/dart.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/markdown.png"/>
+<img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" height="45" width="45">
 </a>
 
 
