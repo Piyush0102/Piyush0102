@@ -66,6 +66,10 @@ I am a Computer Engineering student studying at International Institute of Infor
 ## **Github Stats**
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=atharva0300&show_provate=true&theme=algolia&show_icons=true&show_owner=true)](https://github.com/atharva0300/github-readme-stats)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva0300&theme=algolia&card_width=445&lang_count=8&layout=compact)](https://github.com/atharva0300/github-readme-stats)
+
+## Activity Graph
+[![Atharva's github activity graph](https://activity-graph.herokuapp.com/graph?username=atharva0300&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
 ## **🔗 Connect me here**
 <a href="https://twitter.com/iamatharvap" >
