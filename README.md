@@ -56,12 +56,12 @@ I am a Computer Engineering student studying at International Institute of Infor
 <img src="https://img.icons8.com/ios-filled/35/000000/markdown.png"/>
 <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" height="35" width="35">
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/35/000000/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png"/>
-<img src="https://img.icons8.com/ios/35/000000/webgl.png"/>
+<img src="https://thecreativechris.files.wordpress.com/2015/09/webgl.png" width = "70" height ="35">
 <img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png" width = "35" height= "35" />
 <img src="https://img.icons8.com/fluency/35/000000/node-js.png"/>
 <img src="https://img.icons8.com/color/35/000000/tensorflow.png"/>
 <img src="https://img.icons8.com/color/35/000000/opencv.png"/>
-<img src="https://thecreativechris.files.wordpress.com/2015/09/webgl.png" width = "70" height ="35">
+
 
 </a>
 
