@@ -4,7 +4,8 @@
                                                                
 ***:smiley: About me***
 <br/>
-I am a Computer Engineering student studying at International Institute of Information Technology, Pune (I2IT,Pune). I am a tech enthusiast, extremely passionate about developing cool projects. I am always open to collaborate on projects and innovative/distruptive ideas.<br/><br/>
+I am a Computer Engineering student studying at International Institute of Information Technology, Pune (I2IT,Pune). I am a tech enthusiast, extremely passionate about developing cool projects. I am always open to collaborate on projects and innovative/distruptive ideas.<br/>
+I am still exploring new domains in Computer Science.<br/><br/>
 ***Writer and Blogger ( Please follow me ) :*** 
 <a href="https://hashnode.com/@atharva0300">
 <img src="https://img.shields.io/badge/Hashnode-orange">
@@ -65,11 +66,6 @@ I am a Computer Engineering student studying at International Institute of Infor
 
 </a>
 
-
-## **🤜🤛 Challenges undertaken**
-  ***1. 100DaysOfCode***<br/>
-  ***2. 301DaysOfCode***<br/>
-  ***3. 30DaysOfCode***<br/>Regularly updating my progress on Github.
 
 ## **Github Stats**
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=atharva0300&show_provate=true&theme=algolia&show_icons=true&show_owner=true)](https://github.com/atharva0300/github-readme-stats)
