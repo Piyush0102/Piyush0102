@@ -7,13 +7,6 @@
 I am a Computer Engineering student studying at International Institute of Information Technology, Pune (I2IT,Pune). I am currently learning Machine Learning, Computer Vision and Full stack development. I am always open to collaborate on projects and innovative/distruptive ideas.<br/><br/>
 
 ### <i>Writer and Blogger ( You can see my articles and blogs here)</i>
-<a href="https://hashnode.com/@atharva0300">
-<img src="https://img.shields.io/badge/-Hashnode-blue?style=for-the-badge&logo=hashnode">
-</a>
-<a href="https://auth.geeksforgeeks.org/user/atharvapc20021/articles">
-<img src="https://img.shields.io/badge/-GeeksForGeeks-grey?style=for-the-badge&logo=geeksforgeeks">
-</a>
-</a>
 <a href="https://dev.to/atharva0300">
 <img src="https://img.shields.io/badge/-Dev.to-orange?style=for-the-badge&logo=devdotto">
 </a>
