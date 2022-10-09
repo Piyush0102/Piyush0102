@@ -87,3 +87,13 @@ Email : atharva0300@gmail.com
 ## Projects I am currently working on 
 1. torrent-client
 2. eFileHub
+
+## Future Projects
+1. VPN Client 
+2. API Design and API Development 
+3. CLI app with API Integration
+4. Creating websocket and exercising with HTTP, UDP, SMTP, FTP
+5. IP Address tracer behind a VPN/Proxy server
+6. Tracing IP address and details of unidentified participants while academic sessions. ( idea from SIH'22 )<a href = "https://sih.gov.in/sih2022PS?technology_bucket=Mg==&category=QWxs&organization=QWxs&organization_type=QWxs"> link </a>
+7. Graphical Password Authentication ( idea from SIH'22 )<a href = "https://sih.gov.in/sih2022PS?technology_bucket=Mg==&category=QWxs&organization=QWxs&organization_type=QWxs"> link </a>
+8. Network traffic analyzer ( idea from SIH'22 )<a href = "https://sih.gov.in/sih2022PS?technology_bucket=Mg==&category=QWxs&organization=QWxs&organization_type=QWxs"> link </a>
