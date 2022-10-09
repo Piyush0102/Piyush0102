@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=atharva0300&label=Profile+Views&color=blue&style=flat)
 
-# **Hi! , I am Atharva , great to see you here 👋**
+# **I am Atharva , great to see you here 👋**
                                                                
 ***:smiley: About me***
 <br/>
@@ -69,8 +69,9 @@ Email : atharva0300@gmail.com
 
 
 ## 📋 **Github Stats**
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=atharva0300&show_provate=true&theme=algolia&show_icons=true&show_owner=true)](https://github.com/atharva0300/github-readme-stats)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva0300&theme=algolia&card_width=445&lang_count=8&layout=compact)](https://github.com/atharva0300/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=atharva0300&show_provate=true&theme=blue-green&show_icons=true&show_owner=true)](https://github.com/atharva0300/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva0300&theme=blue-green&card_width=445&lang_count=8&layout=compact)](https://github.com/atharva0300/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=atharva0300&theme=blue-green)](https://git.io/streak-stats)
 
 ## 👊 Activity Graph
 [![Atharva's github activity graph](https://activity-graph.herokuapp.com/graph?username=atharva0300&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -83,6 +84,8 @@ Email : atharva0300@gmail.com
 <a href="https://github.com/atharva0300">
 <img src="https://img.icons8.com/ios-glyphs/35/000000/github.png">
 </a>
+
+
 
 ## Projects I am currently working on 
 1. torrent-client
