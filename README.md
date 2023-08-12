@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=atharva0300&label=Profile+Views&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=Piyush0102&label=Profile+Views&color=blue&style=flat)
 
 # **I am Piyush , great to see you here 👋**
                                                                
@@ -11,7 +11,7 @@ I am a Computer Engineering student. I am currently learning Web Development, We
 <img src="https://img.shields.io/badge/-Hackerrank-purple?style=for-the-badge&logo=hackerrank">
 </a>
 <a href="https://leetcode.com/piyushkale303/">
-<img src="https://img.shields.io/badge/-Leet Code-purple?style=for-the-badge&logo=hackerrank">
+<img src="https://img.shields.io/badge/-Leet Code-brown?style=for-the-badge&logo=Leet Code">
 </a>
 <br/>
 
@@ -34,15 +34,11 @@ Email : piyushkale303@gmail.com
   </div>
 
 ## 📋 **Github Stats**
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=atharva0300&show_provate=true&theme=blue-green&show_icons=true&show_owner=true)](https://github.com/atharva0300/github-readme-stats)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva0300&theme=blue-green&card_width=445&lang_count=8&layout=compact)](https://github.com/atharva0300/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=atharva0300&theme=blue-green)](https://git.io/streak-stats)
-
-## 👊 Activity Graph
-[![Atharva's github activity graph](https://activity-graph.herokuapp.com/graph?username=atharva0300&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Piyush0102&show_provate=true&theme=blue-green&show_icons=true&show_owner=true)](https://github.com/Piyush0102/github-readme-stats)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0102&theme=blue-green&card_width=445&lang_count=8&layout=compact)](https://github.com/Piyush0102/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Piyush0102&theme=blue-green)](https://git.io/streak-stats)
  
 ## **🔗 Connect me here**
-<a href="https://github.com/atharva0300">
-<img src="https://img.icons8.com/ios-glyphs/35/000000/github.png">
+<a href="https://www.linkedin.com/in/piyush-kale-2449a3210/">
+<img src="https://img.icons8.com/?size=1x&id=13930&format=png">
 </a>
