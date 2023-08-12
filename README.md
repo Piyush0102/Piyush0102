@@ -11,7 +11,7 @@ I am a Computer Engineering student. I am currently learning Web Development, We
 <img src="https://img.shields.io/badge/-Hackerrank-purple?style=for-the-badge&logo=hackerrank">
 </a>
 <a href="https://leetcode.com/piyushkale303/">
-<img src="https://img.shields.io/badge/-Leet Code-brown?style=for-the-badge&logo=Leet Code">
+<img src="https://img.shields.io/badge/-Leet Code-brown?style=for-the-badge&logo=leetcode">
 </a>
 <br/>
 
@@ -23,6 +23,11 @@ Email : piyushkale303@gmail.com
 <div>
 <img src="https://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/-C%2B%2B-black?style=for-the-badge&logo=cplusplus">
+<img src="https://img.shields.io/badge/-Beautifulsoup-grey?style=for-the-badge&logo=beautifulsoup">  
+<img src="https://img.shields.io/badge/-Selenium-darkred?style=for-the-badge&logo=selenium">
+<img src="https://img.shields.io/badge/-MySQL-lightyellow?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/-Tensorflow-black?style=for-the-badge&logo=tensorflow">  
+<img src="https://img.shields.io/badge/-Blender-darkblue?style=for-the-badge&logo=blender">  
 </div>
 
 ### 💻 Full-Stack
@@ -30,8 +35,9 @@ Email : piyushkale303@gmail.com
 <img src="https://img.shields.io/badge/-HTML-greeb?style=for-the-badge&logo=html5">
 <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3">
 <img src="https://img.shields.io/badge/-Javascript-lightgrey?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/-BootStrap-pink?style=for-the-badge&logo=bootstrap">
 <img src="https://img.shields.io/badge/-Reactjs-black?style=for-the-badge&logo=react">
-  </div>
+</div>
 
 ## 📋 **Github Stats**
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Piyush0102&show_provate=true&theme=blue-green&show_icons=true&show_owner=true)](https://github.com/Piyush0102/github-readme-stats)
