@@ -1,37 +1,28 @@
 ![](https://komarev.com/ghpvc/?username=atharva0300&label=Profile+Views&color=blue&style=flat)
 
-# **I am Atharva , great to see you here 👋**
+# **I am Piyush , great to see you here 👋**
                                                                
 ***:smiley: About me***
 <br/>
-I am a Computer Engineering student studying at International Institute of Information Technology, Pune (I2IT,Pune). I am currently learning Machine Learning, Computer Vision and Full stack development. I am always open to collaborate on projects and innovative/distruptive ideas.<br/><br/>
-
-### <i>Writer and Blogger ( You can see my articles and blogs here)</i>
-<a href="https://dev.to/atharva0300">
-<img src="https://img.shields.io/badge/-Dev.to-orange?style=for-the-badge&logo=devdotto">
-</a>
-<br/>
+I am a Computer Engineering student. I am currently learning Web Development, Web Scraping and Machine Learning. I am always open to collaborate on projects and innovative/distruptive ideas.<br/><br/>
 
 ### <i>Profiles</i> 
-<a href="https://auth.geeksforgeeks.org/user/atharvapc20021/profile">
-<img src="https://img.shields.io/badge/-GeeksForGeeks-grey?style=for-the-badge&logo=geeksforgeeks">
-</a>
-<a href="https://www.hackerrank.com/atharva0300">
+<a href="https://www.hackerrank.com/piyushkale303">
 <img src="https://img.shields.io/badge/-Hackerrank-purple?style=for-the-badge&logo=hackerrank">
+</a>
+<a href="https://leetcode.com/piyushkale303/">
+<img src="https://img.shields.io/badge/-Leet Code-purple?style=for-the-badge&logo=hackerrank">
 </a>
 <br/>
 
 ### <i>How to reach me ?</i> 
-Email : atharva0300@gmail.com
+Email : piyushkale303@gmail.com
 
 
 ## **:wrench: Languages and Tools** 
 <div>
 <img src="https://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/-C%2B%2B-black?style=for-the-badge&logo=cplusplus">
-<img src="https://img.shields.io/badge/-THREEjs-black?style=for-the-badge&logo=threedotjs" />
-<img src="https://img.shields.io/badge/-Markdown-pink?style=for-the-badge&logo=markdown"/>
-<img src="https://img.shields.io/badge/-WebGL-brown?style=for-the-badge&logo=webgl">
 </div>
 
 ### 💻 Full-Stack
@@ -40,33 +31,7 @@ Email : atharva0300@gmail.com
 <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3">
 <img src="https://img.shields.io/badge/-Javascript-lightgrey?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/-Reactjs-black?style=for-the-badge&logo=react">
-<img src="https://img.shields.io/badge/-Nodejs-grey?style=for-the-badge&logo=nodedotjs">
-<img src="https://img.shields.io/badge/-Expressjs-maroon?style=for-the-badge&logo=express">
   </div>
-  
-### 🤓 Machine Learning and Computer Vision
-<div>
-<img src="https://img.shields.io/badge/-Tensorflow-black?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/-OpenCV-yellow?style=for-the-badge&logo=opencv"/>
-  </div>
-  
-## 🔥 Competitive Programming
-<a href="https://www.codechef.com/users/atharva0300">
-<img src="https://img.shields.io/badge/-Codechef-brown?style=for-the-badge&logo=codechef">
-</a>
-<a href="https://codeforces.com/profile/atharva0300">
-<img src="https://img.shields.io/badge/-Codeforces-lightgrey?style=for-the-badge&logo=codeforces">
-</a>
-<a href="https://www.spoj.com/users/atharva0300">
-<img src="https://img.shields.io/badge/-SPOJ-brightgreen?style=for-the-badge&logo=spoj">
-</a>
-<a href="https://atcoder.jp/users/atharva0300">
-<img src="https://img.shields.io/badge/-AtCoder-orange?style=for-the-badge&logo=atcoder">
-</a>
-<br/>
-
-</a>
-
 
 ## 📋 **Github Stats**
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=atharva0300&show_provate=true&theme=blue-green&show_icons=true&show_owner=true)](https://github.com/atharva0300/github-readme-stats)
@@ -78,25 +43,6 @@ Email : atharva0300@gmail.com
 
  
 ## **🔗 Connect me here**
-<a href="https://twitter.com/iamatharvap" >
-<img src="https://img.icons8.com/color/35/000000/twitter--v1.png">
-</a>
 <a href="https://github.com/atharva0300">
 <img src="https://img.icons8.com/ios-glyphs/35/000000/github.png">
 </a>
-
-
-
-## Projects I am currently working on 
-1. torrent-client
-2. eFileHub
-
-## Future Projects
-1. VPN Client 
-2. API Design and API Development 
-3. CLI app with API Integration
-4. Creating websocket and exercising with HTTP, UDP, SMTP, FTP
-5. IP Address tracer behind a VPN/Proxy server
-6. Tracing IP address and details of unidentified participants while academic sessions. ( idea from SIH'22 )<a href = "https://sih.gov.in/sih2022PS?technology_bucket=Mg==&category=QWxs&organization=QWxs&organization_type=QWxs"> link </a>
-7. Graphical Password Authentication ( idea from SIH'22 )<a href = "https://sih.gov.in/sih2022PS?technology_bucket=Mg==&category=QWxs&organization=QWxs&organization_type=QWxs"> link </a>
-8. Network traffic analyzer ( idea from SIH'22 )<a href = "https://sih.gov.in/sih2022PS?technology_bucket=Mg==&category=QWxs&organization=QWxs&organization_type=QWxs"> link </a>
