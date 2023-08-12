@@ -4,7 +4,7 @@
                                                                
 ***:smiley: About me***
 <br/>
-I am a Computer Engineering student. I am currently learning Web Development, Web Scraping and Machine Learning. I am always open to collaborate on projects and innovative/distruptive ideas.<br/><br/>
+I am a Computer Engineering student. I am currently learning Web Development, Web Scraping and Machine Learning. Let's connect, collaborate, and code the future together! 💻🌟.<br/><br/>
 
 ### <i>Profiles</i> 
 <a href="https://www.hackerrank.com/piyushkale303">
