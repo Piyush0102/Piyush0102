@@ -26,7 +26,6 @@ Email : piyushkale303@gmail.com
 <img src="https://img.shields.io/badge/-Beautifulsoup-grey?style=for-the-badge&logo=beautifulsoup">  
 <img src="https://img.shields.io/badge/-Selenium-darkred?style=for-the-badge&logo=selenium">
 <img src="https://img.shields.io/badge/-MySQL-lightyellow?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/-Tensorflow-black?style=for-the-badge&logo=tensorflow">  
 <img src="https://img.shields.io/badge/-Blender-darkblue?style=for-the-badge&logo=blender">  
 </div>
 
@@ -34,9 +33,12 @@ Email : piyushkale303@gmail.com
 <div>
 <img src="https://img.shields.io/badge/-HTML-greeb?style=for-the-badge&logo=html5">
 <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/-TailwindCSS-lightblue?style=for-the-badge&logo=tailwindcss">  
 <img src="https://img.shields.io/badge/-Javascript-lightgrey?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/-BootStrap-pink?style=for-the-badge&logo=bootstrap">
 <img src="https://img.shields.io/badge/-Reactjs-black?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/-Vitejs-black?style=for-the-badge&logo=vite">
+  
 </div>
 
 ## 📋 **Github Stats**
