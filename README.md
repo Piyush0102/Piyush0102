@@ -13,9 +13,7 @@ I am a Computer Engineering student. I am currently learning Web Development, We
 <a href="https://leetcode.com/piyushkale303/">
 <img src="https://img.shields.io/badge/-Leet Code-brown?style=for-the-badge&logo=leetcode">
 </a>
-<a href="https://www.codingninjas.com/studio/profile/2cc6ee74-db87-4fa0-a099-48adac7b621b">
-<img src="https://img.shields.io/badge/-Coding Ninjas-blue?style=for-the-badge&logo=codingninjas">
-</a>  
+
 <br/>
 
 ### <i>How to reach me ?</i> 
