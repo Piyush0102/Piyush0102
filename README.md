@@ -24,6 +24,7 @@ Email : piyushkale303@gmail.com
 <div>
 <img src="https://img.shields.io/badge/-C%2B%2B-black?style=for-the-badge&logo=cplusplus">  
 <img src="https://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/-R-lightblue?style=for-the-badge&logo=R">
 <img src="https://img.shields.io/badge/-Beautifulsoup-grey?style=for-the-badge&logo=beautifulsoup">  
 <img src="https://img.shields.io/badge/-Selenium-darkred?style=for-the-badge&logo=selenium">
 <img src="https://img.shields.io/badge/-MySQL-lightyellow?style=for-the-badge&logo=mysql">
